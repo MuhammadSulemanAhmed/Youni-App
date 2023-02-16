@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleDisplayName</key>
+	<string>Youni</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>$(PRODUCT_NAME)</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>$(MARKETING_VERSION)</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>$(CURRENT_PROJECT_VERSION)</string>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSExceptionDomains</key>
+		<dict>
+			<key>localhost</key>
+			<dict>
+				<key>NSExceptionAllowsInsecureHTTPLoads</key>
+				<true/>
+			</dict>
+		</dict>
+	</dict>
+	<key>NSCalendarsUsageDescription</key>
+	<string>This app requires access to the calendar so users can add future events they wish to attend onto their calendars for reminders.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>This app requires access to the camera to allow users quick access to capturing images whilst at events, which can later be uploaded so others that attended the event can see.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>This app requires access to the location to add on posts so users posts can be associated with other people that also posted from the same location; for example whilst at an event.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>This app requires access to the microphone to record videos so they can add videos with audio to events.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>This app requires access to the photo library to upload previously taken photos whilst at an event, these can then be uploaded to events so others who attended can see.</string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>BwModelica-Black.otf</string>
+		<string>BwModelica-BlackItalic.otf</string>
+		<string>BwModelica-Bold.otf</string>
+		<string>BwModelica-BoldItalic.otf</string>
+		<string>BwModelica-ExtraBold.otf</string>
+		<string>BwModelica-ExtraBoldItalic.otf</string>
+		<string>BwModelica-Hairline.otf</string>
+		<string>BwModelica-HairlineItalic.otf</string>
+		<string>BwModelica-Light.otf</string>
+		<string>BwModelica-LightItalic.otf</string>
+		<string>BwModelica-Medium.otf</string>
+		<string>BwModelica-MediumItalic.otf</string>
+		<string>BwModelica-Regular.otf</string>
+		<string>BwModelica-RegularItalic.otf</string>
+		<string>BwModelica-Thin.otf</string>
+		<string>BwModelica-ThinItalic.otf</string>
+	</array>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>fetch</string>
+		<string>remote-notification</string>
+	</array>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIRequiredDeviceCapabilities</key>
+	<array>
+		<string>armv7</string>
+	</array>
+	<key>UIStatusBarStyle</key>
+	<string>UIStatusBarStyleDefault</string>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+	</array>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<false/>
+</dict>
+</plist>

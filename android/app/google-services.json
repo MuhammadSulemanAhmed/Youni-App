@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "811990684589",
+    "project_id": "myscroll-bece2",
+    "storage_bucket": "myscroll-bece2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811990684589:android:7e6fb6d9af6bbd3062c724",
+        "android_client_info": {
+          "package_name": "com.myscroll"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811990684589-b97q5gequshgqr39j1peup4b5qblt6mk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4hkDhlgCcAN4OG0yw7qNYMQFcCPKgBp4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811990684589-b97q5gequshgqr39j1peup4b5qblt6mk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "811990684589-jnq7dap34a8q3ks5uuft33i1jhvive84.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.myscroll.beta"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811990684589:android:8a980f2ddf35f03f62c724",
+        "android_client_info": {
+          "package_name": "com.myscrollnew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811990684589-b97q5gequshgqr39j1peup4b5qblt6mk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4hkDhlgCcAN4OG0yw7qNYMQFcCPKgBp4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811990684589-b97q5gequshgqr39j1peup4b5qblt6mk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "811990684589-jnq7dap34a8q3ks5uuft33i1jhvive84.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.myscroll.beta"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

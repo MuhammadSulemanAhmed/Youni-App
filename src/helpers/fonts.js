@@ -1,0 +1,18 @@
+export const FONTS = {
+  bwBlack: 'BwModelica-Black',
+  bwBlackItalic: 'BwModelica-BlackItalic',
+  bwBold: 'BwModelica-Bold',
+  bwBoldItalic: 'BwModelica-BoldItalic',
+  bwExtraBold: 'BwModelica-ExtraBold',
+  bwExtraBoldItalic: 'BwModelica-ExtraBoldItalic',
+  bwHairline: 'BwModelica-Hairline',
+  bwHairlineItalic: 'BwModelica-HairlineItalic',
+  bwLight: 'BwModelica-Light',
+  bwLightItalic: 'BwModelica-LightItalic',
+  bwMedium: 'BwModelica-Medium',
+  bwMediumItalic: 'BwModelica-MediumItalic',
+  bwRegular: 'BwModelica-Regular',
+  bwRegularItalic: 'BwModelica-RegularItalic',
+  bwThin: 'BwModelica-Thin',
+  bwThinItalic: 'BwModelica-ThinItalic',
+};
